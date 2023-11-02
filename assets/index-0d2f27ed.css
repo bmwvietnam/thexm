@@ -632,7 +632,7 @@ img, video {
 }
 
 .text-xs {
-	font-size: 0.75rem;
+	font-size: 0.875rem;
 	line-height: 1rem;
 }
 
@@ -700,7 +700,7 @@ body {
 	--tw-bg-opacity: 1;
 	background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 	font-weight: 300;
-	font-family: BMWTypeNext Latin, Arial;
+	font-family: VN_BMWTypeNext Latin, Arial;
 	position: relative;
 	padding-bottom: 6rem;
 }

@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin TT';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Light.svg#VN_BMWTypeNextLatinTT-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin TT';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Bold.svg#VN_BMWTypeNextLatinTT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin TT';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatinTT-Regular.svg#VN_BMWTypeNextLatinTT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Bold.svg#VN_BMWTypeNextLatin-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Regular.svg#VN_BMWTypeNextLatin-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VN_BMWTypeNext Latin';
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.eot');
+    src: url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.eot?#iefix') format('embedded-opentype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.woff2') format('woff2'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.woff') format('woff'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.ttf') format('truetype'),
+        url('./assets/VN_BMWTypeNextLatin/VN_BMWTypeNextLatin-Light.svg#VN_BMWTypeNextLatin-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@mixin cf-typenext-tt {
+	font-family: 'VN_BMWTypeNext Latin TT', Arial;
+}
+.cf-typenext-tt {
+    @include cf-typenext-tt;
+}
+1
